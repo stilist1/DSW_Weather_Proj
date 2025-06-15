@@ -111,12 +111,3 @@ This runs tests in `tests/test_mood_analyzer.py`.
 
 ---
 
-## 💡 Possible Improvements
-
-- Add GUI using `tkinter` or `PyQt`
-- Telegram bot version
-- Save weather/mood history to file
-- Add music playlist integration (e.g. Spotify API)
-- Use emojis/icons for weather and mood
-
----
