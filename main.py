@@ -11,7 +11,7 @@ def main():
         city = input("Enter your city: ")
         try:
             weatherData = weatherClient.getCurrentWeather(city)
-            break  # если запрос успешен — выходим из цикла
+            break  
         except Exception as error:
             print(f"An error occurred: {error}")
             print("Please try again.\n")
