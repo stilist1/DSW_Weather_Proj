@@ -56,7 +56,7 @@ dsw_proj/
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/weather-mood-app.git
+git clone
 cd weather-mood-app
 ```
 
